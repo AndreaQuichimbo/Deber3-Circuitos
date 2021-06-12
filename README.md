@@ -42,7 +42,7 @@ CIRCUITOS EN SERIE
 
 </div>
  
-**CAPITULO V**
+**CAPITULO VI**
 
 <div align="center">
 
