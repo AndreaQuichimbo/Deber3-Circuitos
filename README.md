@@ -51,7 +51,13 @@ CIRCUITOS EN PÁRALELO
   ![image](https://user-images.githubusercontent.com/84430867/121795769-74a14580-cbd9-11eb-844d-7da02cd5d7d0.png)
 
   ![image](https://user-images.githubusercontent.com/84430867/121795771-7a972680-cbd9-11eb-9cef-e7fcf616c221.png)
+  
+  ![image](https://user-images.githubusercontent.com/84430867/121797327-28f49900-cbe5-11eb-9651-16f85a0004f8.png)
 
+  ![image](https://user-images.githubusercontent.com/84430867/121797337-30b43d80-cbe5-11eb-91eb-9ff172c6282b.png)
+
+  ![image](https://user-images.githubusercontent.com/84430867/121797350-40338680-cbe5-11eb-9571-af1c2a389eb8.png)
+ 
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -307,19 +313,19 @@ una.Determine la resistencia equivalente R T,del circuito.
      
 </div>
 
-B.Encuentre la corriente I.
+B. Encuentre la corriente I.
 
 <div align="center">
      
 </div>
 
-C.Use la regla del divisor de corriente para determinar la corriente en cadaresistor.
+C. Use la regla del divisor de corriente para determinar la corriente en cadaresistor.
 
 <div align="center">
      
 </div>
 
-D.Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
+D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 <div align="center">
      
