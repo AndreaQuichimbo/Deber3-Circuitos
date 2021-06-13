@@ -482,3 +482,12 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 # 5. CONCLUSIONES
 
 # 6. BIBLIOGRAFÍAS
+
+Electrónica Unicrom. (s.f.). Obtenido de Resistencias en paralelo – Resistores en paralelo: https://unicrom.com/resistencias-resistores-paralelo/
+
+González, A. G. (29 de 03 de 2021). PANAMAHITEK. Obtenido de Ley de corriente de Kirchhoff: Análisis de nodos: http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+
+Raffino, M. E. (09 de 06 de 2020). CIRCUITO PARALELO. Obtenido de https://concepto.de/circuito-en-paralelo/
+
+
+
