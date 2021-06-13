@@ -465,10 +465,12 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
      
 </div>
 
-53. Utilice PSpice para encontrar la corriente a través de cada resistor en el cir-cuito de la ﬁgura 6-79.
+53. Utilice PSpice para encontrar la corriente a través de cada resistor en el circuito de la ﬁgura 6-79.
 
 <div align="center">
-     
+  
+![image](https://user-images.githubusercontent.com/84430867/121797395-8983d600-cbe5-11eb-8ae8-b7c87491be9e.png)
+    
 </div>
 
 
