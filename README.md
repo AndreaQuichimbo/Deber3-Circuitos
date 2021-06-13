@@ -178,7 +178,7 @@ C. El volt aje en las terminales abiertas a y B.
   </div>
 
 
-** 5-6 Regla del divisor de voltaje**
+**5-6 Regla del divisor de voltaje**
 
 23. Use la regla de l divisor de volt aje para determinar el v oltaje en cada resis-tor en los circuitos de la ﬁ gura 5-66. Usa susresultados para veri ﬁ car la ley devoltaje de Kirchhoff para cada circuito.
 
