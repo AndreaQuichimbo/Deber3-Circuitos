@@ -68,13 +68,13 @@ CIRCUITOS EN PÁRALELO
 
 **5-1 Circuitos en serie**
 
-1. Los voltímetros de la ﬁ gura 5-44 tienen autopolarida d. Determinar la lecturade cada medidor ,con la magnitud y el signo correctos.
+1. Los voltímetros de la ﬁgura 5-44 tienen autopolaridad. Determinar la lecturade cada medidor ,con la magnitud y el signo correctos.
 
 <div align="center">
      
 </div>
 
-3. To dos los resistores de la ﬁ gura 5-46 son de 15. Determine para cada casola magnitud y la polaridad del voltaje V. 
+3. Todos los resistores de la ﬁgura 5-46 son de 15Ω. Determine para cada casola magnitud y la polaridad del voltaje V. 
 
 <div align="center">
      
@@ -82,7 +82,7 @@ CIRCUITOS EN PÁRALELO
 
 **5-2 Ley de voltaje de Kirchhoff**
 
-5.Determinar los v oltajes desconocidos en las redes de la ﬁ gura 5-48.
+5.Determinar los voltajes desconocidos en las redes de la ﬁgura 5-48.
 
 <div align="center">
   
@@ -90,7 +90,7 @@ CIRCUITOS EN PÁRALELO
   
 </div>
 
-7. Resuelva para hallar los voltajes desconocidos en el circuito de la ﬁ gura 5-50
+7. Resuelva para hallar los voltajes desconocidos en el circuito de la ﬁgura 5-50
 
 <div align="center">
      
