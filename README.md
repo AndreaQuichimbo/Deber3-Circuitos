@@ -333,7 +333,7 @@ D.Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
      
 </div>
 
-B.Encuentre todas las corrientes desconocidas en el circuito.
+B. Encuentre todas las corrientes desconocidas en el circuito.
 
 <div align="center">
      
@@ -345,7 +345,7 @@ C. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
      
 </div>
 
-D.Determine la potencia disipada por cada resistor. Veriﬁque que la potenciatotal disipada por los resistores es igual a la potencia suministrada por lafuente de voltaje.
+D. Determine la potencia disipada por cada resistor. Veriﬁque que la potenciatotal disipada por los resistores es igual a la potencia suministrada por lafuente de voltaje.
   
 <div align="center">
 
@@ -359,19 +359,19 @@ D.Determine la potencia disipada por cada resistor. Veriﬁque que la potenciato
      
 </div>
 
-A.Calcule la corriente a través de cada resistor en el circuito.
+A. Calcule la corriente a través de cada resistor en el circuito.
 
 <div align="center">
      
 </div>
 
-B.Determine la corriente total suministrada por la fuente de voltaje.
+B. Determine la corriente total suministrada por la fuente de voltaje.
 
 <div align="center">
      
 </div>
 
-C.Encuentre la potencia disipada por cada resistor.
+C. Encuentre la potencia disipada por cada resistor.
   
 <div align="center">
 
@@ -387,19 +387,19 @@ C.Encuentre la potencia disipada por cada resistor.
   
   </div>
 
-A.Determine los valores de todos los resistores.
+A. Determine los valores de todos los resistores.
 
 <div align="center">
      
 </div>
 
-B.Calcule las corrientes a través de R 1, R 2 y R 4.
+B. Calcule las corrientes a través de R 1, R 2 y R 4.
 
 <div align="center">
      
 </div>
 
-C.Encuentre las corrientes I 1 e I 2.
+C. Encuentre las corrientes I 1 e I 2.
   
 <div align="center">  
 
