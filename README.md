@@ -62,13 +62,13 @@ CIRCUITOS EN PÁRALELO
 
 1. Los voltímetros de la ﬁ gura 5-44 tienen autopolarida d. Determinar la lecturade cada medidor ,con la magnitud y el signo correctos.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 3. To dos los resistores de la ﬁ gura 5-46 son de 15. Determine para cada casola magnitud y la polaridad del voltaje V. 
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -80,11 +80,11 @@ CIRCUITOS EN PÁRALELO
   
 ![image](https://user-images.githubusercontent.com/84430867/121794095-3c930600-cbcb-11eb-9c07-a794bd3375a5.png)
   
-  </div>
+</div>
 
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la ﬁ gura 5-50
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -110,19 +110,19 @@ CIRCUITOS EN PÁRALELO
 
 A. La corriente del circuito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B. La resistencia total.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 C. El val o de la resi stenc ia desco nocid a,R
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -139,7 +139,7 @@ una.Lacorriente, I
  
 B. La caída de v oltaj e en cada resi stor en el circu ito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -185,38 +185,38 @@ C. El volt aje en las terminales abiertas a y B.
 25. Vea los circuitos de la ﬁgura 5-68:
 una.Encuentre los valores de los resistores desconocidos.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B. Calcule el voltaje en cada resistor.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 C. Determine la potencia disipada por cada resistor.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la ﬁgura 5-70.
 una.Dete rmine la c orrie nte en el circuito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B. Use la re gla del di visor de volta je para encont rar el voltaje en cadafoco.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 C. Calcule la potencia di si pada por cada foco.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -233,7 +233,7 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 ***5-8 Notación de subíndices devoltaje***
 29. Resuelva par a hallar los voltajes V ab y V antes de Cristo en los circuitos de la ﬁ gura 5-68.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -262,7 +262,7 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁ gura 6-68.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -296,32 +296,32 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desco-nocidas en la red de la ﬁgura 6-75.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 35. Vea el circuito de la ﬁgura 6-77:
 una.Determine la resistencia equivalente R T,del circuito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B.Encuentre la corriente I.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 C.Use la regla del divisor de corriente para determinar la corriente en cadaresistor.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 D.Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -329,19 +329,19 @@ D.Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
   
 37. Vea el circuito de la ﬁgura 6-79. una.Encuentre la resistencia total R T y la corriente I a través de la fuente devoltaje.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B.Encuentre todas las corrientes desconocidas en el circuito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 C. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -355,19 +355,19 @@ D.Determine la potencia disipada por cada resistor. Veriﬁque que la potenciato
 
 39. Vea el circuito de la ﬁgura 6-81:
 
-<div align="center"
+<div align="center">
      
 </div>
 
 A.Calcule la corriente a través de cada resistor en el circuito.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B.Determine la corriente total suministrada por la fuente de voltaje.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -389,13 +389,13 @@ C.Encuentre la potencia disipada por cada resistor.
 
 A.Determine los valores de todos los resistores.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B.Calcule las corrientes a través de R 1, R 2 y R 4.
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -419,25 +419,25 @@ C.Encuentre las corrientes I 1 e I 2.
 
 45. Un voltímetro con una resistencia interna de 1 M  se usa para medir el voltaje que se indica en el circuito de la ﬁgura 6-86.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 A. Determine la lectura de voltaje que indicará el medidor.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado.
 
-<div align="center"
+<div align="center">
      
 </div>
 
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la ﬁgura 6-87. Si el voltímetro indica que el voltaje V ab  1.2 V,¿cuál es el voltaje real de la fuente si la resistencia del medidor es de50 k  ?
 
-<div align="center"
+<div align="center">
      
 </div>
 
@@ -445,7 +445,7 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
   
 49. Utilice Multisim para encontrar la corriente a través de cada resistor en el cir-cuito de la ﬁgura 6-79.
 
-<div align="center"
+<div align="center">
      
 ![image](https://user-images.githubusercontent.com/84430867/121797006-f9449180-cbe2-11eb-8e5d-12d141f39a62.png)
       
@@ -453,7 +453,7 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1M ,como se muestra en la ﬁgura 6-86.
 
-<div align="center"
+<div align="center">
      
 ![image](https://user-images.githubusercontent.com/84430867/121796958-b08cd880-cbe2-11eb-9942-74e4b6e5b263.png)
      
@@ -461,7 +461,7 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 53. Utilice PSpice para encontrar la corriente a través de cada resistor en el cir-cuito de la ﬁgura 6-79.
 
-<div align="center"
+<div align="center">
      
 </div>
 
