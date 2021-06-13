@@ -57,7 +57,9 @@ CIRCUITOS EN PÁRALELO
   ![image](https://user-images.githubusercontent.com/84430867/121797337-30b43d80-cbe5-11eb-91eb-9ff172c6282b.png)
 
   ![image](https://user-images.githubusercontent.com/84430867/121797350-40338680-cbe5-11eb-9571-af1c2a389eb8.png)
- 
+  
+  ![image](https://user-images.githubusercontent.com/84430867/121797791-20519200-cbe8-11eb-82e7-014b1c5de954.png)
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
