@@ -114,12 +114,20 @@ CIRCUITOS EN PÁRALELO
   
 ![image](https://user-images.githubusercontent.com/84430867/122132186-ff638980-cdff-11eb-8884-2fefac0a65e5.png)
   
+![image](https://user-images.githubusercontent.com/84430867/122132345-481b4280-ce00-11eb-80b9-5459de371df9.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122132556-ab0cd980-ce00-11eb-8cf6-7532e5a84296.png)
+
 </div>
 
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la ﬁgura 5-50
 
 <div align="center">
-     
+ 
+![image](https://user-images.githubusercontent.com/84430867/122133784-fcb66380-ce02-11eb-8b1e-172d7a1119d3.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122134091-91b95c80-ce03-11eb-8937-f361c5efcb43.png)
+
 </div>
 
 **5-3 Restaura en serie**
@@ -128,7 +136,7 @@ CIRCUITOS EN PÁRALELO
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/121794162-ca6ef100-cbcb-11eb-8e25-f9f320c093d1.png)
+![image](https://user-images.githubusercontent.com/84430867/122134227-cdecbd00-ce03-11eb-9617-a58f5b025fdd.png)
   
   </div>
 
