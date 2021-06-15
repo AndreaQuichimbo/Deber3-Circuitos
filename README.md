@@ -110,7 +110,9 @@ CIRCUITOS EN PÁRALELO
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/121794095-3c930600-cbcb-11eb-9c07-a794bd3375a5.png)
+![image](https://user-images.githubusercontent.com/84430867/122131969-a136a680-cdff-11eb-8506-c96541e70d19.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/122132186-ff638980-cdff-11eb-8884-2fefac0a65e5.png)
   
 </div>
 
