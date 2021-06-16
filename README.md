@@ -166,6 +166,10 @@ CIRCUITOS EN PÁRALELO
 
 13. Para el circuito de la ﬁ gura 5-56 encontrar las siguientes cantidades:
 
+<div align="center">
+![image](https://user-images.githubusercontent.com/84430867/122308173-7ddc2c00-ced1-11eb-968a-fd964ddb83d9.png)
+</div>
+
 A. La corriente del circuito.
 
 <div align="center">
@@ -177,6 +181,8 @@ A. La corriente del circuito.
 B. La resistencia total.
 
 <div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122308379-e4614a00-ced1-11eb-88ba-bbe030f5f8c9.png)
      
 </div>
 
@@ -303,109 +309,13 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![image](https://user-images.githubusercontent.com/84430867/121794769-b083dd00-cbd0-11eb-8b26-7c2ea0b542ce.png)
 
-  </div>
+</div>
 
+
+#  PROBLEMAS CAPÍTULO VI
+
+23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
   
-5.11 Análisis de circuitos por computadora  
-  
-37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
-
-![image](https://user-images.githubusercontent.com/84587172/122295134-73646700-cebe-11eb-93b9-c8bacc72e231.png)
-
-![1](https://user-images.githubusercontent.com/84587172/122295143-78c1b180-cebe-11eb-93ec-bf3582fd792e.png)
-  
-![2](https://user-images.githubusercontent.com/84587172/122295201-8b3beb00-cebe-11eb-9187-c4fca5c3dc76.png)
-
-39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente:  
- 
- ![image](https://user-images.githubusercontent.com/84587172/122295564-f8e81700-cebe-11eb-8fbb-b96b7686e970.png)
- 
- ![3](https://user-images.githubusercontent.com/84587172/122295609-08fff680-cebf-11eb-812f-cbd85e74506e.png)
-
-# PROBLEMAS CAPÍTULO VI
-
-6.1 Circuitos en paralelo
-
-1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
-
-![image](https://user-images.githubusercontent.com/84587172/122295663-1b7a3000-cebf-11eb-846a-22df848716e4.png)
-
-•	a.- (A,B) están en serie, (D,E) están en serie y (F,C) están en paralelo
-
-•	b.- (B,C,D) están en paralelo
-
-•	c.- (A, B) están en paralelo; (D, F) están en paralelo; (C, E) están en serie.
-
-•	d.- (A,B,C y D) están en paralelo 
-
-3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
-
-![4](https://user-images.githubusercontent.com/84587172/122295893-609e6200-cebf-11eb-9391-0c5701c55afb.png)
-
-6.2 Ley de corriente de Kirchhoff
-
-5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
-
-![5](https://user-images.githubusercontent.com/84587172/122296266-d3a7d880-cebf-11eb-9fa5-9e9c134dbb2b.png)
-
-![6](https://user-images.githubusercontent.com/84587172/122296273-d5719c00-cebf-11eb-9c39-92d258e048e6.png)
-
-7.-Considere la red de la figura 6-50
-
-![image](https://user-images.githubusercontent.com/84587172/122296338-e8846c00-cebf-11eb-98da-2ec1a6f8c101.png)
-![image](https://user-images.githubusercontent.com/84587172/122296344-eb7f5c80-cebf-11eb-9d51-4e5ac1e424e4.png)
-
-![7](https://user-images.githubusercontent.com/84587172/122296415-fcc86900-cebf-11eb-8966-0d21cf7167fd.png)
-
-6.3 Resistores en paralelo
-
-11.- Calcule la conductancia total y resistencia total de cada red que se muestra en la figura    6-54.
-
-![image](https://user-images.githubusercontent.com/84587172/122296647-43b65e80-cec0-11eb-8dc1-3d480d5e498b.png)
-
-![8](https://user-images.githubusercontent.com/84587172/122296668-487b1280-cec0-11eb-9f27-8aafbdee9592.png)
-
-13.-Para las redes de la figura 6-56 determine el valor de la(s) resistencias(s) desconocidas para que resulte la resistencia total que se indica. 
-
-![image](https://user-images.githubusercontent.com/84587172/122297501-364da400-cec1-11eb-8663-122e68e00cf4.png)
-
-![16](https://user-images.githubusercontent.com/84587172/122297562-46658380-cec1-11eb-8219-359065b2fbe6.png)
-
-
-15.- Vea la red de la figura 6-58: 
-
-![image](https://user-images.githubusercontent.com/84587172/122296693-503ab700-cec0-11eb-9ef1-50bce9a852a7.png)
-
-![9](https://user-images.githubusercontent.com/84587172/122296816-76605700-cec0-11eb-93f5-c6a8e429c27a.png)
-
-![10](https://user-images.githubusercontent.com/84587172/122296828-7a8c7480-cec0-11eb-81ed-5584d8767c76.png)
-
-17.- Vea la red de la figura 6-60: 
-
-![image](https://user-images.githubusercontent.com/84587172/122296958-a3ad0500-cec0-11eb-8edf-6b9bad3a8d57.png)
-
-![11](https://user-images.githubusercontent.com/84587172/122297006-b45d7b00-cec0-11eb-8306-7bf8a167766e.png)
-
-19.- Determine la resistencia total de cada red de la figura 6-62.
-
-![image](https://user-images.githubusercontent.com/84587172/122297039-bc1d1f80-cec0-11eb-8679-0686a1c6a65c.png)
-![image](https://user-images.githubusercontent.com/84587172/122297051-bf181000-cec0-11eb-88c5-9cdf02bb52fa.png)
-
-![12](https://user-images.githubusercontent.com/84587172/122297149-cf2fef80-cec0-11eb-8f44-6e57e560399b.png)
-
-21.- Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
-
-![image](https://user-images.githubusercontent.com/84587172/122297171-d656fd80-cec0-11eb-8e11-17bc5758f245.png)
-
-![13](https://user-images.githubusercontent.com/84587172/122297314-fe466100-cec0-11eb-9417-dea1fa04a959.png)
-
-![14](https://user-images.githubusercontent.com/84587172/122297324-00102480-cec1-11eb-9835-af966318f7d7.png)
-
-![15](https://user-images.githubusercontent.com/84587172/122297327-01415180-cec1-11eb-9aac-c11ddfbfabf8.png)
-
-
-23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la ﬁ gura 6-66.
-
 <div align="center">  
 
 ![image](https://user-images.githubusercontent.com/84430867/121795904-846d5980-cbda-11eb-8ada-7f7cb69207a5.png)
