@@ -338,6 +338,11 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 •	d.- (A,B,C y D) están en paralelo 
 
+3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
+
+![4](https://user-images.githubusercontent.com/84587172/122295893-609e6200-cebf-11eb-9391-0c5701c55afb.png)
+
+
 23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
 
 <div align="center">  
