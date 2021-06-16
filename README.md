@@ -303,6 +303,9 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![image](https://user-images.githubusercontent.com/84430867/121794769-b083dd00-cbd0-11eb-8b26-7c2ea0b542ce.png)
 
+  </div>
+
+  
 5.11 Análisis de circuitos por computadora  
   
 37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
