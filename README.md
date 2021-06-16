@@ -365,6 +365,13 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![8](https://user-images.githubusercontent.com/84587172/122296668-487b1280-cec0-11eb-9f27-8aafbdee9592.png)
 
+13.-Para las redes de la figura 6-56 determine el valor de la(s) resistencias(s) desconocidas para que resulte la resistencia total que se indica. 
+
+![image](https://user-images.githubusercontent.com/84587172/122297501-364da400-cec1-11eb-8663-122e68e00cf4.png)
+
+![16](https://user-images.githubusercontent.com/84587172/122297562-46658380-cec1-11eb-8219-359065b2fbe6.png)
+
+
 15.- Vea la red de la figura 6-58: 
 
 ![image](https://user-images.githubusercontent.com/84587172/122296693-503ab700-cec0-11eb-9ef1-50bce9a852a7.png)
