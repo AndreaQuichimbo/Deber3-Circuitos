@@ -303,56 +303,18 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![image](https://user-images.githubusercontent.com/84430867/121794769-b083dd00-cbd0-11eb-8b26-7c2ea0b542ce.png)
 
-</ div >
-
-5.11 Análisis de circuitos por computadora
-
+5.11 Análisis de circuitos por computadora  
+  
 37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
 
-![image](https://user-images.githubusercontent.com/84587172/122294145-609d6280-cebd-11eb-8dc4-ff226bbf5a76.png)
+![image](https://user-images.githubusercontent.com/84587172/122295134-73646700-cebe-11eb-93b9-c8bacc72e231.png)
 
-![1](https://user-images.githubusercontent.com/84587172/122294167-65621680-cebd-11eb-8031-03331dd34285.png)
+![1](https://user-images.githubusercontent.com/84587172/122295143-78c1b180-cebe-11eb-93ec-bf3582fd792e.png)
+  
+![2](https://user-images.githubusercontent.com/84587172/122295201-8b3beb00-cebe-11eb-9187-c4fca5c3dc76.png)
 
-![2](https://user-images.githubusercontent.com/84587172/122294180-6abf6100-cebd-11eb-8d1b-0da5d6bad946.png)
-
-39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
-
-![image](https://user-images.githubusercontent.com/84587172/122294206-70b54200-cebd-11eb-972a-4b0e3604120e.png)
-
-![3](https://user-images.githubusercontent.com/84587172/122294231-77dc5000-cebd-11eb-926c-1b23ecb14435.png)
-
-1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
-
-![image](https://user-images.githubusercontent.com/84587172/122294271-80348b00-cebd-11eb-9027-79c4251c452c.png)
-
-•	a.- (A,B) están en serie, (D,E) están en serie y (F,C) están en paralelo
-
-•	b.- (B,C,D) están en paralelo
-
-•	c.- (A, B) están en paralelo; (D, F) están en paralelo; (C, E) están en serie.
-
-•	d.- (A,B,C y D) están en paralelo 
-
+  
 #  PROBLEMAS CAPÍTULO VI
-
-6.1 Circuitos en paralelo
-
-1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
-
-![image](https://user-images.githubusercontent.com/84587172/122293649-da811c00-cebc-11eb-9983-b4463d8d1eb5.png)
-
-•	a.- (A,B) están en serie, (D,E) están en serie y (F,C) están en paralelo
-
-•	b.- (B,C,D) están en paralelo
-
-•	c.- (A, B) están en paralelo; (D, F) están en paralelo; (C, E) están en serie
-
-•	d.- (A,B,C y D) están en paralelo 
-
-3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
-
-![4](https://user-images.githubusercontent.com/84587172/122294518-bd991880-cebd-11eb-9108-cbef683337b5.png)
-
 
 23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
 
