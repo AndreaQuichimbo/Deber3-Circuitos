@@ -373,6 +373,29 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![10](https://user-images.githubusercontent.com/84587172/122296828-7a8c7480-cec0-11eb-81ed-5584d8767c76.png)
 
+17.- Vea la red de la figura 6-60: 
+
+![image](https://user-images.githubusercontent.com/84587172/122296958-a3ad0500-cec0-11eb-8edf-6b9bad3a8d57.png)
+
+![11](https://user-images.githubusercontent.com/84587172/122297006-b45d7b00-cec0-11eb-8306-7bf8a167766e.png)
+
+19.- Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/84587172/122297039-bc1d1f80-cec0-11eb-8679-0686a1c6a65c.png)
+![image](https://user-images.githubusercontent.com/84587172/122297051-bf181000-cec0-11eb-88c5-9cdf02bb52fa.png)
+
+![12](https://user-images.githubusercontent.com/84587172/122297149-cf2fef80-cec0-11eb-8f44-6e57e560399b.png)
+
+21.- Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
+
+![image](https://user-images.githubusercontent.com/84587172/122297171-d656fd80-cec0-11eb-8e11-17bc5758f245.png)
+
+![13](https://user-images.githubusercontent.com/84587172/122297314-fe466100-cec0-11eb-9417-dea1fa04a959.png)
+
+![14](https://user-images.githubusercontent.com/84587172/122297324-00102480-cec1-11eb-9835-af966318f7d7.png)
+
+![15](https://user-images.githubusercontent.com/84587172/122297327-01415180-cec1-11eb-9aac-c11ddfbfabf8.png)
+
 
 23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la ﬁ gura 6-66.
 
