@@ -136,15 +136,31 @@ CIRCUITOS EN PÁRALELO
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/122134227-cdecbd00-ce03-11eb-9617-a58f5b025fdd.png)
+![image](https://user-images.githubusercontent.com/84430867/122149672-12875100-ce22-11eb-9e64-4b910e20c33e.png)
   
-  </div>
+![image](https://user-images.githubusercontent.com/84430867/122150017-a1946900-ce22-11eb-8419-44f41b2a7855.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/122149708-2337c700-ce22-11eb-8238-9fd517b2627d.png)
 
-11. Para cada uno de los circuitos de la ﬁ gura 5-54,determinar la resistencia total,RT,y la corriente I
+![image](https://user-images.githubusercontent.com/84430867/122150269-fdf78880-ce22-11eb-904e-5fc146fded0e.png) 
+
+![image](https://user-images.githubusercontent.com/84430867/122149740-321e7980-ce22-11eb-93ea-a1df6775c89c.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122149982-90e3f300-ce22-11eb-9b0b-c190cbb9e634.png)
+
+</div>
+
+11. Para cada uno de los circuitos de la ﬁ gura 5-54,determinar la resistencia total, RT ,y la corriente I
   
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/121794204-1cb01200-cbcc-11eb-96c7-098f58cd4b83.png)
+![image](https://user-images.githubusercontent.com/84430867/122153442-9f350d80-ce28-11eb-8abe-5864e86c7c27.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/122152898-91cb5380-ce27-11eb-8664-b4ef8dcafa0d.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122153497-bffd6300-ce28-11eb-8d70-fb07a9638185.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122153477-b411a100-ce28-11eb-94fa-29a4435184d3.png)
   
   </div>
 
@@ -153,7 +169,9 @@ CIRCUITOS EN PÁRALELO
 A. La corriente del circuito.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122154905-8e39cb80-ce2b-11eb-93e1-01810d0d3978.png)
+
 </div>
 
 B. La resistencia total.
