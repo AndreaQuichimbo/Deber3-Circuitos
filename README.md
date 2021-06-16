@@ -320,7 +320,8 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 **6-5 Regla del divisor de corriente**
   
-29. Use la regla del divisor de corriente para encontrar las corrientes I 1mi I 2 enlas redes de la ﬁ gura 6-71.
+  
+29. Use la regla del divisor de corriente para encontrar las corrientes I 1mi I 2 enlas redes de la ﬁgura 6-71.
   
 <div align="center">
 
