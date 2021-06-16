@@ -167,7 +167,9 @@ CIRCUITOS EN PÁRALELO
 13. Para el circuito de la ﬁ gura 5-56 encontrar las siguientes cantidades:
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/122308173-7ddc2c00-ced1-11eb-968a-fd964ddb83d9.png)
+  
 </div>
 
 A. La corriente del circuito.
@@ -196,9 +198,8 @@ D. La caída de voltaje en todos los resistores en el circuito La potencia disip
   
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/121794260-70226000-cbcc-11eb-9c6c-f0573fcc276d.png)
-  
-  </div>
+
+ </div>
 
 15. Para el circuito de la ﬁgura 5-58,encuentre las siguientes cantida des:
 una.Lacorriente, I
