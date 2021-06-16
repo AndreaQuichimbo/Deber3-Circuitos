@@ -316,8 +316,27 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
   
 ![2](https://user-images.githubusercontent.com/84587172/122295201-8b3beb00-cebe-11eb-9187-c4fca5c3dc76.png)
 
-  
-#  PROBLEMAS CAPÍTULO VI
+39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente:  
+ 
+ ![image](https://user-images.githubusercontent.com/84587172/122295564-f8e81700-cebe-11eb-8fbb-b96b7686e970.png)
+ 
+ ![3](https://user-images.githubusercontent.com/84587172/122295609-08fff680-cebf-11eb-812f-cbd85e74506e.png)
+
+# PROBLEMAS CAPÍTULO VI
+
+6.1 Circuitos en paralelo
+
+1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
+
+![image](https://user-images.githubusercontent.com/84587172/122295663-1b7a3000-cebf-11eb-846a-22df848716e4.png)
+
+•	a.- (A,B) están en serie, (D,E) están en serie y (F,C) están en paralelo
+
+•	b.- (B,C,D) están en paralelo
+
+•	c.- (A, B) están en paralelo; (D, F) están en paralelo; (C, E) están en serie.
+
+•	d.- (A,B,C y D) están en paralelo 
 
 23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
 
