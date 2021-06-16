@@ -357,8 +357,24 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![7](https://user-images.githubusercontent.com/84587172/122296415-fcc86900-cebf-11eb-8966-0d21cf7167fd.png)
 
+6.3 Resistores en paralelo
 
-23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
+11.- Calcule la conductancia total y resistencia total de cada red que se muestra en la figura    6-54.
+
+![image](https://user-images.githubusercontent.com/84587172/122296647-43b65e80-cec0-11eb-8dc1-3d480d5e498b.png)
+
+![8](https://user-images.githubusercontent.com/84587172/122296668-487b1280-cec0-11eb-9f27-8aafbdee9592.png)
+
+15.- Vea la red de la figura 6-58: 
+
+![image](https://user-images.githubusercontent.com/84587172/122296693-503ab700-cec0-11eb-9ef1-50bce9a852a7.png)
+
+![9](https://user-images.githubusercontent.com/84587172/122296816-76605700-cec0-11eb-93f5-c6a8e429c27a.png)
+
+![10](https://user-images.githubusercontent.com/84587172/122296828-7a8c7480-cec0-11eb-81ed-5584d8767c76.png)
+
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la ﬁ gura 6-66.
 
 <div align="center">  
 
