@@ -342,6 +342,21 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![4](https://user-images.githubusercontent.com/84587172/122295893-609e6200-cebf-11eb-9391-0c5701c55afb.png)
 
+6.2 Ley de corriente de Kirchhoff
+
+5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
+
+![5](https://user-images.githubusercontent.com/84587172/122296266-d3a7d880-cebf-11eb-9fa5-9e9c134dbb2b.png)
+
+![6](https://user-images.githubusercontent.com/84587172/122296273-d5719c00-cebf-11eb-9c39-92d258e048e6.png)
+
+7.-Considere la red de la figura 6-50
+
+![image](https://user-images.githubusercontent.com/84587172/122296338-e8846c00-cebf-11eb-98da-2ec1a6f8c101.png)
+![image](https://user-images.githubusercontent.com/84587172/122296344-eb7f5c80-cebf-11eb-9d51-4e5ac1e424e4.png)
+
+![7](https://user-images.githubusercontent.com/84587172/122296415-fcc86900-cebf-11eb-8966-0d21cf7167fd.png)
+
 
 23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
 
