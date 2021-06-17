@@ -429,33 +429,33 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 </div>
 
-
-5.9 Resistencia  interna de fuentes de voltaje
+**5.9 Resistencia  interna de fuentes de voltaje**
 
 33.- Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
 
-</div>
+<div align="center">
 
 ![1](https://user-images.githubusercontent.com/84587172/122330458-d8d54980-cef8-11eb-98d9-9db9509fd86f.png)
 
-5.10 Efectos de carga del amperímetro
+</div>
+
+**5.10 Efectos de carga del amperímetro**
 
 35.- Para los circuitos en serie de la ﬁgura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
 
-</div>
-
+<div align="center">
 
 ![2](https://user-images.githubusercontent.com/84587172/122330665-3bc6e080-cef9-11eb-871e-886ab66de3f9.png)
 
-</div>
-
 ![3](https://user-images.githubusercontent.com/84587172/122330687-41bcc180-cef9-11eb-9776-7a27da6a4666.png)
 
-5.11 Análisis de circuitos por computadora
+</div>
+
+**5.11 Análisis de circuitos por computadora**
 
 37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
 
-</div>
+<div align="center">
 
 ![4](https://user-images.githubusercontent.com/84587172/122330747-56995500-cef9-11eb-9ada-386f0bf505c6.png)
 
@@ -469,10 +469,11 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 ![9](https://user-images.githubusercontent.com/84587172/122330837-77fa4100-cef9-11eb-97b7-af487e646b5a.png)
 
-39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
-
 </div>
 
+39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/122330804-6ca71580-cef9-11eb-973c-db4cdc014ba2.png)
 
@@ -480,19 +481,29 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 ![11](https://user-images.githubusercontent.com/84587172/122330868-89dbe400-cef9-11eb-8099-6a566fa96c2b.png)
 
+</div>
+
 # PROBLEMAS CAPÍTULO VI
 
-6.1 Circuitos en paralelo
+**6.1 Circuitos en paralelo**
 
 1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
+  
+<div align="center">
 
 ![12](https://user-images.githubusercontent.com/84587172/122330931-9eb87780-cef9-11eb-8cfb-8288b4760e63.png)
 
+</div>
+
 3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
+  
+<div align="center">
 
 ![13](https://user-images.githubusercontent.com/84587172/122330946-a6781c00-cef9-11eb-99d8-5b8fc58b1fc7.png)
 
-6.2 Ley de corriente de Kirchhoff
+</div>
+
+**6.2 Ley de corriente de Kirchhoff**
 
 5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
 
