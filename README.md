@@ -188,35 +188,61 @@ B. La resistencia total.
      
 </div>
 
-C. El val o de la resi stenc ia desco nocid a,R
+C. El valor de la resistencia desconocida, R.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122308743-90a33080-ced2-11eb-8233-1c1f897f2407.png)
+
 </div>
 
-D. La caída de voltaje en todos los resistores en el circuito La potencia disipada po todos los resistores.
+D. La caída de voltaje en todos los resistores en el circuito 
   
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/122309053-348cdc00-ced3-11eb-8253-2052045cfa98.png)
 
- </div>
-
-15. Para el circuito de la ﬁgura 5-58,encuentre las siguientes cantida des:
-una.Lacorriente, I
- 
-B. La caída de v oltaj e en cada resi stor en el circu ito.
-
-<div align="center">
-     
 </div>
 
-C. El volt aje en las terminales abiertas a y B.
+E. La potencia disipada po todos los resistores.
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/122309125-538b6e00-ced3-11eb-927c-c947aee49007.png)
+
+</div>
+
+15. Para el circuito de la ﬁgura 5-58,encuentre las siguientes cantidades:
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84430867/122309253-977e7300-ced3-11eb-993e-5ed3a3e71692.png)
+
+</div>
+
+A. La corriente, I.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/122309341-bda41300-ced3-11eb-8eda-82776db5be02.png)
+
+</div>
+
+B. La caída de voltaje en cada resistor en el circuito.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122309401-dad8e180-ced3-11eb-8acd-53fd95008351.png)
+
+</div>
+
+C. El voltaje en las terminales abiertas a y B.
 
 <div align="center">  
 
 ![image](https://user-images.githubusercontent.com/84430867/121794432-8ed52680-cbcd-11eb-9900-68da83a4ffa5.png)
   
-  </div>
+</div>
 
 17. Repita el problema 16 para el circuito de la ﬁ gura 5-60.
 
@@ -224,7 +250,7 @@ C. El volt aje en las terminales abiertas a y B.
 
 ![image](https://user-images.githubusercontent.com/84430867/121794445-b1673f80-cbcd-11eb-8372-2281e181f860.png)
   
-  </div>
+</div>
 
 19. Repita el problema 18 para el circuito de la ﬁ gura 5-62.
 
