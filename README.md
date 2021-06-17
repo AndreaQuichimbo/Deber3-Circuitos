@@ -407,14 +407,18 @@ D. Si unsolo fo co lle gara ae star en circu ito abi erto,la seri e ente ra deja
  </div>
 E. Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la espe-ranza de vida del re sto de los focos,si los dos que fallan no fueron reemplazados?
 
-El tiempo de vida de estos disminuiría a causa de los focos faltantes 
+El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 **5-8 Notación de subíndices devoltaje**
 
 29. Resuelva par a hallar los voltajes V ab y V antes de Cristo en los circuitos de la ﬁ gura 5-68.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122320538-02d24000-cee8-11eb-9883-8d455b45da3c.png)
+ 
+![image](https://user-images.githubusercontent.com/84430867/122335517-0920e600-cf01-11eb-829a-b86ca88afe54.png)
+
 </div>
 
 31. Para los circuitos de la ﬁgura 5-71,determine el voltaje en cada resistor ycalcule el voltaje V a.
