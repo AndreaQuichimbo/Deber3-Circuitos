@@ -577,15 +577,23 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 ![22](https://user-images.githubusercontent.com/84587172/122331427-6bc2b380-cefa-11eb-83a4-610df4d27cd7.png)
 
+</div>
+
 19.- Determine la resistencia total de cada red de la figura 6-62.
+
+<div align="center">  
 
 ![image](https://user-images.githubusercontent.com/84587172/122331440-72512b00-cefa-11eb-9c87-4586769f1137.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/122331442-73825800-cefa-11eb-9411-3d67e6e1ec8b.png)
 
 ![23](https://user-images.githubusercontent.com/84587172/122331465-82690a80-cefa-11eb-83a2-18e32b13fa55.png)
+  
+</div>
 
 21.- Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
+
+<div align="center">  
 
 ![image](https://user-images.githubusercontent.com/84587172/122331479-88f78200-cefa-11eb-9125-832ad74041c0.png)
 
@@ -595,6 +603,7 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 ![26](https://user-images.githubusercontent.com/84587172/122331504-901e9000-cefa-11eb-8dab-ee50bfeb3525.png)
 
+</div>
 
 23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la ﬁ gura 6-66.
   
@@ -606,7 +615,7 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 ![image](https://user-images.githubusercontent.com/84430867/121795919-9949ed00-cbda-11eb-958c-de035e633b35.png)
   
- </div>
+</div>
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁ gura 6-68.
 
@@ -754,7 +763,7 @@ C. Encuentre las corrientes I 1 e I 2.
 
 ![image](https://user-images.githubusercontent.com/84430867/121796316-a1575c00-cbdd-11eb-9dec-205f2567f8fb.png)
   
-  </div>
+</div>
 
 43. Para el circuito de la ﬁgura 6-85 determine cada una de las corrientes indica-das. Si el circuito tiene un fusible de 15 A,como se muestra,¿la corriente essuﬁciente para hacer que el fusible se abra?
   
