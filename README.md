@@ -419,7 +419,7 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 </div>
 
-31. Para los circuitos de la ﬁgura 5-71,determine el voltaje en cada resistor ycalcule el voltaje V a.
+31. Para los circuitos de la ﬁgura 5-71, determine el voltaje en cada resistor y calcule el voltaje V a.
   
 <div align="center">
 
