@@ -416,9 +416,12 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes
 
 </div>
 
+
 5.9 Resistencia  interna de fuentes de voltaje
 
 33.- Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
+
+</div>
 
 ![1](https://user-images.githubusercontent.com/84587172/122330458-d8d54980-cef8-11eb-98d9-9db9509fd86f.png)
 
@@ -426,13 +429,20 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes
 
 35.- Para los circuitos en serie de la ﬁgura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
 
+</div>
+
+
 ![2](https://user-images.githubusercontent.com/84587172/122330665-3bc6e080-cef9-11eb-871e-886ab66de3f9.png)
+
+</div>
 
 ![3](https://user-images.githubusercontent.com/84587172/122330687-41bcc180-cef9-11eb-9776-7a27da6a4666.png)
 
 5.11 Análisis de circuitos por computadora
 
 37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
+
+</div>
 
 ![4](https://user-images.githubusercontent.com/84587172/122330747-56995500-cef9-11eb-9ada-386f0bf505c6.png)
 
@@ -447,6 +457,9 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes
 ![9](https://user-images.githubusercontent.com/84587172/122330837-77fa4100-cef9-11eb-97b7-af487e646b5a.png)
 
 39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
+
+</div>
+
 
 ![image](https://user-images.githubusercontent.com/84587172/122330804-6ca71580-cef9-11eb-973c-db4cdc014ba2.png)
 
