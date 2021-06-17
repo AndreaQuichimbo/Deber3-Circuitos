@@ -383,7 +383,9 @@ A. Determine la corriente en el circuito.
 B. Use la re gla del di visor de volta je para encont rar el voltaje en cadafoco.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122332719-839b3700-cefc-11eb-8224-8d7165331c2e.png)
+
 </div>
 
 C. Calcule la potencia di si pada por cada foco.
