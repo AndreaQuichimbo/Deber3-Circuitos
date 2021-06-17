@@ -770,31 +770,41 @@ C. Encuentre las corrientes I 1 e I 2.
   
 <div align="center">  
 
-}![image](https://user-images.githubusercontent.com/84430867/121796331-ba600d00-cbdd-11eb-8ddc-9ac760f932cb.png)
-  
-  </div>
+![image](https://user-images.githubusercontent.com/84430867/121796331-ba600d00-cbdd-11eb-8ddc-9ac760f932cb.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122476702-41213b00-cf8c-11eb-8a5e-33b7a5b2d40b.png)
+
+</div>
+
+Si se abrirá ya que la corriente excede a lo establecido en el fusible.
 
 **6-7 Efectos de carga en el voltímetro**
 
-45. Un voltímetro con una resistencia interna de 1 M  se usa para medir el voltaje que se indica en el circuito de la ﬁgura 6-86.
+45. Un voltímetro con una resistencia interna de 1 M Ω se usa para medir el voltaje que se indica en el circuito de la ﬁgura 6-86.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122472678-80e52400-cf86-11eb-8fe8-e582242ec81e.png)
+
 </div>
 
 A. Determine la lectura de voltaje que indicará el medidor.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122472536-5abf8400-cf86-11eb-810d-16df41276bb1.png)
+
 </div>
 
 B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122472577-63b05580-cf86-11eb-8582-ca1f9e01e6e4.png)
+
 </div>
 
-47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la ﬁgura 6-87. Si el voltímetro indica que el voltaje V ab  1.2 V,¿cuál es el voltaje real de la fuente si la resistencia del medidor es de50 k  ?
+47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la ﬁgura 6-87. Si el voltímetro indica que el voltaje V ab = 1.2 V,¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 k Ω ?
 
 <div align="center">
 
