@@ -4,8 +4,6 @@
 
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-Profesor: Ing. Darwin Omar Alulema Flores
-
 AUTORES
 
 Coba Flores Víctor Steve
