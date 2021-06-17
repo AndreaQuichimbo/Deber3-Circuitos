@@ -617,7 +617,7 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
   
 </div>
 
-25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁ gura 6-68.
+25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁgura 6-68.
 
 <div align="center">
      
@@ -652,14 +652,15 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
   
   </div>
 
-33. Utilice la regla del divisor de corriente para determinar las resistencias desco-nocidas en la red de la ﬁgura 6-75.
+33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la ﬁgura 6-75.
 
 <div align="center">
      
 </div>
 
 35. Vea el circuito de la ﬁgura 6-77:
-una.Determine la resistencia equivalente R T,del circuito.
+
+A. Determine la resistencia equivalente R T,del circuito.
 
 <div align="center">
      
