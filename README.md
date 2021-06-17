@@ -240,7 +240,7 @@ C. El voltaje en las terminales abiertas a y B.
 
 <div align="center">  
 
-![image](https://user-images.githubusercontent.com/84430867/121794432-8ed52680-cbcd-11eb-9900-68da83a4ffa5.png)
+![image](https://user-images.githubusercontent.com/84430867/122312626-33ab7880-ceda-11eb-912c-f098da1d57ab.png)
   
 </div>
 
@@ -248,11 +248,81 @@ C. El voltaje en las terminales abiertas a y B.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/121794445-b1673f80-cbcd-11eb-8372-2281e181f860.png)
+![image](https://user-images.githubusercontent.com/84430867/122312779-8b49e400-ceda-11eb-9add-66de7ec3cec9.png)
   
 </div>
 
-19. Repita el problema 18 para el circuito de la ﬁ gura 5-62.
+A. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de volaje en R2 y R3.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/122312982-001d1e00-cedb-11eb-92e6-1b5ff2cfc842.png)
+
+</div>
+
+B. Determinne la magnitud de la corriente, I.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/122314069-15934780-cedd-11eb-8ba3-0695de9676d6.png)
+
+</div>
+
+19. Repita el problema 18 para el circuito de la ﬁgura 5-62.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/122314729-5b9cdb00-cede-11eb-8026-f519957b1ce9.png)
+
+  </div>
+  
+A. Encuentre RT.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122316566-b8e65b80-cee1-11eb-944b-2e6a89e520e8.png)
+
+</div>
+
+B. Resuelva para hallar la corriente, I.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122316617-d3203980-cee1-11eb-9bef-8347c4aacd6e.png)
+
+</div>
+
+C. Determine la caída de voltaje en cada resistor.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122316726-fc40ca00-cee1-11eb-8a3b-f1fd904cd1ea.png)
+
+</div>
+
+D. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122316953-4cb82780-cee2-11eb-8d4b-ba03305a3463.png)
+
+</div>
+
+E. Encuentre la potencia disiparada por cada resistor.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/122316990-5e99ca80-cee2-11eb-9e9b-c60b1efa4f12.png)
+
+</div>
+
+F. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disiparadas por los resistores.
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/122317350-00211c00-cee3-11eb-81ba-b1fce7dd8603.png)
+
+</div>
 
 **5-5 Intercambio de componentes en serie**
 
@@ -262,8 +332,9 @@ C. El voltaje en las terminales abiertas a y B.
   
 ![image](https://user-images.githubusercontent.com/84430867/121794476-10c54f80-cbce-11eb-96ba-004221b5b753.png)
   
-  </div>
-
+![image](https://user-images.githubusercontent.com/84430867/122317847-c69ce080-cee3-11eb-8b30-1a65d26efc6a.png)
+  
+</div>
 
 **5-6 Regla del divisor de voltaje**
 
@@ -272,14 +343,19 @@ C. El voltaje en las terminales abiertas a y B.
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/121794503-4e29dd00-cbce-11eb-9a0b-672e41120a30.png)
-  
-  </div>
+
+![image](https://user-images.githubusercontent.com/84430867/122319512-53e13480-cee6-11eb-9bd9-fb5793078ba0.png)
+
+</div>
 
 25. Vea los circuitos de la ﬁgura 5-68:
-una.Encuentre los valores de los resistores desconocidos.
+
+A. Encuentre los valores de los resistores desconocidos.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122320538-02d24000-cee8-11eb-9883-8d455b45da3c.png)
+
 </div>
 
 B. Calcule el voltaje en cada resistor.
