@@ -758,11 +758,11 @@ B. Calcule las corrientes a través de R 1, R 2 y R 4.
      
 </div>
 
-C. Encuentre las corrientes I 1 e I 2.
+C. Encuentre las corrientes I1 e I2.
   
 <div align="center">  
 
-![image](https://user-images.githubusercontent.com/84430867/121796316-a1575c00-cbdd-11eb-9dec-205f2567f8fb.png)
+
   
 </div>
 
