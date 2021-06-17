@@ -808,6 +808,9 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84587293/122476870-7d549b80-cf8c-11eb-9e08-b1bc2d8291c4.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122476899-8ba2b780-cf8c-11eb-9065-0591841caa00.png)
 
 </div>
 
