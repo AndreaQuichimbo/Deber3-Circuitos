@@ -398,6 +398,11 @@ C. Calcule la potencia di si pada por cada foco.
 
 D. Si unsolo fo co lle gara ae star en circu ito abi erto,la seri e ente ra deja ría defuncionar . Para prevenir que ello ocurra ,cada foco tiene una pequeña cintade metal que pone en corto al foco cuando el ﬁlamento falla. Repita los pasos (a) a (c),si dos focos de la serie se quemaran.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/122332848-c9f09600-cefc-11eb-9d6d-80dc9028b10b.png)
+
+ </div>
 E. Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la espe-ranza de vida del re sto de los focos,si los dos que fallan no fueron reemplazados?
 
 El tiempo de vida de estos disminuiría a causa de los focos faltantes 
