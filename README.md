@@ -416,6 +416,9 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes
 
 </div>
 
+5.9 Resistencia  interna de fuentes de voltaje
+
+33.- Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
 
 #  PROBLEMAS CAPÍTULO VI
 
