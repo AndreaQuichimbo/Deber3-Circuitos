@@ -427,7 +427,7 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![image](https://user-images.githubusercontent.com/84430867/121795919-9949ed00-cbda-11eb-958c-de035e633b35.png)
   
-  </div>
+ </div>
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁ gura 6-68.
 
@@ -443,7 +443,7 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 ![image](https://user-images.githubusercontent.com/84430867/121796009-5b00fd80-cbdb-11eb-8593-0905ad64a63f.png)
   
-  </div>
+ </div>
 
 **6-5 Regla del divisor de corriente**
   
