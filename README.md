@@ -352,26 +352,23 @@ F. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 A. Encuentre los valores de los resistores desconocidos.
 
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/122320538-02d24000-cee8-11eb-9883-8d455b45da3c.png)
-
-</div>
-
 B. Calcule el voltaje en cada resistor.
-
-<div align="center">
-     
-</div>
 
 C. Determine la potencia disipada por cada resistor.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122320538-02d24000-cee8-11eb-9883-8d455b45da3c.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/122326876-9c065400-cef2-11eb-92f3-6071b0d7d252.png)
+
+![image](https://user-images.githubusercontent.com/84430867/122327387-64e47280-cef3-11eb-825d-e6d79a3adad7.png)
+
 </div>
 
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la ﬁgura 5-70.
-una.Dete rmine la c orrie nte en el circuito.
+
+A. Determine la corriente en el circuito.
 
 <div align="center">
      
