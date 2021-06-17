@@ -571,6 +571,8 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 17.- Vea la red de la figura 6-60: 
 
+<div align="center"> 
+  
 ![image](https://user-images.githubusercontent.com/84587172/122331398-5c436a80-cefa-11eb-9d8a-a7bd61a9e155.png)
 
 ![22](https://user-images.githubusercontent.com/84587172/122331427-6bc2b380-cefa-11eb-83a4-610df4d27cd7.png)
