@@ -797,38 +797,9 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la ﬁgura 6-87. Si el voltímetro indica que el voltaje V ab  1.2 V,¿cuál es el voltaje real de la fuente si la resistencia del medidor es de50 k  ?
 
 <div align="center">
-     
+
+
 </div>
-
-***6-8 Análisis por computadora***
-  
-49. Utilice Multisim para encontrar la corriente a través de cada resistor en el cir-cuito de la ﬁgura 6-79.
-
-<div align="center">
-     
-![image](https://user-images.githubusercontent.com/84430867/121797006-f9449180-cbe2-11eb-8e5d-12d141f39a62.png)
-      
-</div>
-
-51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1M ,como se muestra en la ﬁgura 6-86.
-
-<div align="center">
-     
-![image](https://user-images.githubusercontent.com/84430867/121796958-b08cd880-cbe2-11eb-9942-74e4b6e5b263.png)
-     
-</div>
-
-53. Utilice PSpice para encontrar la corriente a través de cada resistor en el circuito de la ﬁgura 6-79.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/121797395-8983d600-cbe5-11eb-8ae8-b7c87491be9e.png)
-    
-</div>
-
-
-
-
 
 # 4. VIDEO
 
