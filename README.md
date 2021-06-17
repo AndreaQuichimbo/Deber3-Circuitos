@@ -377,7 +377,9 @@ C. Determine la potencia disipada por cada resistor.
 A. Determine la corriente en el circuito.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122333003-0e7c3180-cefd-11eb-9a5e-8de93fcfe479.png)
+
 </div>
 
 B. Use la re gla del di visor de volta je para encont rar el voltaje en cadafoco.
