@@ -507,45 +507,69 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587172/122330969-b3950b00-cef9-11eb-8d83-248169b2e3a0.png)
 
 ![14](https://user-images.githubusercontent.com/84587172/122331107-e63f0380-cef9-11eb-95f8-1f1dd0cb0c40.png)
 
+</div>
+
 7.-Considere la red de la figura 6-50
+  
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/122331134-f525b600-cef9-11eb-8862-6503d82ac97c.png)
 
 ![15](https://user-images.githubusercontent.com/84587172/122331165-fe168780-cef9-11eb-81d5-076fb8d4ce51.png)
 
 ![16](https://user-images.githubusercontent.com/84587172/122331175-02db3b80-cefa-11eb-8eaa-dd86ed1e1ab7.png)
+  
+</div>
 
 9.-Vea la red de la figura 6-52:
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/122331195-0a9ae000-cefa-11eb-9519-bd64dd7875d8.png)
 
 ![17](https://user-images.githubusercontent.com/84587172/122331213-12f31b00-cefa-11eb-9567-05d07948c929.png)
 
-6.3 Resistores en paralelo
+</div>
+
+**6.3 Resistores en paralelo**
 
 11.- Calcule la conductancia total y resistencia total de cada red que se muestra en la figura    6-54.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/122331236-1b4b5600-cefa-11eb-882b-14df08f535ea.png)
 
 ![18](https://user-images.githubusercontent.com/84587172/122331257-22726400-cefa-11eb-844c-23e41b62e4d4.png)
 
+</div>
+
 13.-Para las redes de la figura 6-56 determine el valor de la(s) resistencias(s) desconocidas para que resulte la resistencia total que se indica. 
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587172/122331280-2a320880-cefa-11eb-947c-1deed4314906.png)
 
 ![19](https://user-images.githubusercontent.com/84587172/122331296-34ec9d80-cefa-11eb-8fc2-70a417a378b9.png)
 
+</div>
+
 15.- Vea la red de la figura 6-58: 
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/122331316-3cac4200-cefa-11eb-9cf8-0eac9e7bc155.png)
 
 ![20](https://user-images.githubusercontent.com/84587172/122331351-4df54e80-cefa-11eb-848f-6fe21758bdbb.png)
 
 ![21](https://user-images.githubusercontent.com/84587172/122331375-53eb2f80-cefa-11eb-89fc-12af28467c4c.png)
+
+</div>
 
 17.- Vea la red de la figura 6-60: 
 
@@ -556,6 +580,7 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 19.- Determine la resistencia total de cada red de la figura 6-62.
 
 ![image](https://user-images.githubusercontent.com/84587172/122331440-72512b00-cefa-11eb-9c87-4586769f1137.png)
+
 ![image](https://user-images.githubusercontent.com/84587172/122331442-73825800-cefa-11eb-9411-3d67e6e1ec8b.png)
 
 ![23](https://user-images.githubusercontent.com/84587172/122331465-82690a80-cefa-11eb-83a2-18e32b13fa55.png)
