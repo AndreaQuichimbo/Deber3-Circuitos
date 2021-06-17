@@ -420,9 +420,121 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes
 
 33.- Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
 
-#  PROBLEMAS CAPÍTULO VI
+![1](https://user-images.githubusercontent.com/84587172/122330458-d8d54980-cef8-11eb-98d9-9db9509fd86f.png)
 
-23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
+5.10 Efectos de carga del amperímetro
+
+35.- Para los circuitos en serie de la ﬁgura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
+
+![2](https://user-images.githubusercontent.com/84587172/122330665-3bc6e080-cef9-11eb-871e-886ab66de3f9.png)
+
+![3](https://user-images.githubusercontent.com/84587172/122330687-41bcc180-cef9-11eb-9776-7a27da6a4666.png)
+
+5.11 Análisis de circuitos por computadora
+
+37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
+
+![4](https://user-images.githubusercontent.com/84587172/122330747-56995500-cef9-11eb-9ada-386f0bf505c6.png)
+
+![5](https://user-images.githubusercontent.com/84587172/122330752-58631880-cef9-11eb-9913-e39d0922b0c8.png)
+
+![6](https://user-images.githubusercontent.com/84587172/122330764-5d27cc80-cef9-11eb-8074-cbf6b2d731bf.png)
+
+![7](https://user-images.githubusercontent.com/84587172/122330768-5e58f980-cef9-11eb-8ccd-f5a3ccd7e1e2.png)
+
+![8](https://user-images.githubusercontent.com/84587172/122330783-62851700-cef9-11eb-95d3-65f0dd694baf.png)
+
+![9](https://user-images.githubusercontent.com/84587172/122330837-77fa4100-cef9-11eb-97b7-af487e646b5a.png)
+
+39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
+
+![image](https://user-images.githubusercontent.com/84587172/122330804-6ca71580-cef9-11eb-973c-db4cdc014ba2.png)
+
+![10](https://user-images.githubusercontent.com/84587172/122330855-83e60300-cef9-11eb-8d81-c3fc42bf040b.png)
+
+![11](https://user-images.githubusercontent.com/84587172/122330868-89dbe400-cef9-11eb-8099-6a566fa96c2b.png)
+
+# PROBLEMAS CAPÍTULO VI
+
+6.1 Circuitos en paralelo
+
+1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
+
+![12](https://user-images.githubusercontent.com/84587172/122330931-9eb87780-cef9-11eb-8cfb-8288b4760e63.png)
+
+3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
+
+![13](https://user-images.githubusercontent.com/84587172/122330946-a6781c00-cef9-11eb-99d8-5b8fc58b1fc7.png)
+
+6.2 Ley de corriente de Kirchhoff
+
+5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
+
+![image](https://user-images.githubusercontent.com/84587172/122330969-b3950b00-cef9-11eb-8d83-248169b2e3a0.png)
+
+![14](https://user-images.githubusercontent.com/84587172/122331107-e63f0380-cef9-11eb-95f8-1f1dd0cb0c40.png)
+
+7.-Considere la red de la figura 6-50
+
+![image](https://user-images.githubusercontent.com/84587172/122331134-f525b600-cef9-11eb-8862-6503d82ac97c.png)
+
+![15](https://user-images.githubusercontent.com/84587172/122331165-fe168780-cef9-11eb-81d5-076fb8d4ce51.png)
+
+![16](https://user-images.githubusercontent.com/84587172/122331175-02db3b80-cefa-11eb-8eaa-dd86ed1e1ab7.png)
+
+9.-Vea la red de la figura 6-52:
+
+![image](https://user-images.githubusercontent.com/84587172/122331195-0a9ae000-cefa-11eb-9519-bd64dd7875d8.png)
+
+![17](https://user-images.githubusercontent.com/84587172/122331213-12f31b00-cefa-11eb-9567-05d07948c929.png)
+
+6.3 Resistores en paralelo
+
+11.- Calcule la conductancia total y resistencia total de cada red que se muestra en la figura    6-54.
+
+![image](https://user-images.githubusercontent.com/84587172/122331236-1b4b5600-cefa-11eb-882b-14df08f535ea.png)
+
+![18](https://user-images.githubusercontent.com/84587172/122331257-22726400-cefa-11eb-844c-23e41b62e4d4.png)
+
+13.-Para las redes de la figura 6-56 determine el valor de la(s) resistencias(s) desconocidas para que resulte la resistencia total que se indica. 
+
+![image](https://user-images.githubusercontent.com/84587172/122331280-2a320880-cefa-11eb-947c-1deed4314906.png)
+
+![19](https://user-images.githubusercontent.com/84587172/122331296-34ec9d80-cefa-11eb-8fc2-70a417a378b9.png)
+
+15.- Vea la red de la figura 6-58: 
+
+![image](https://user-images.githubusercontent.com/84587172/122331316-3cac4200-cefa-11eb-9cf8-0eac9e7bc155.png)
+
+![20](https://user-images.githubusercontent.com/84587172/122331351-4df54e80-cefa-11eb-848f-6fe21758bdbb.png)
+
+![21](https://user-images.githubusercontent.com/84587172/122331375-53eb2f80-cefa-11eb-89fc-12af28467c4c.png)
+
+17.- Vea la red de la figura 6-60: 
+
+![image](https://user-images.githubusercontent.com/84587172/122331398-5c436a80-cefa-11eb-9d8a-a7bd61a9e155.png)
+
+![22](https://user-images.githubusercontent.com/84587172/122331427-6bc2b380-cefa-11eb-83a4-610df4d27cd7.png)
+
+19.- Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/84587172/122331440-72512b00-cefa-11eb-9c87-4586769f1137.png)
+![image](https://user-images.githubusercontent.com/84587172/122331442-73825800-cefa-11eb-9411-3d67e6e1ec8b.png)
+
+![23](https://user-images.githubusercontent.com/84587172/122331465-82690a80-cefa-11eb-83a2-18e32b13fa55.png)
+
+21.- Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
+
+![image](https://user-images.githubusercontent.com/84587172/122331479-88f78200-cefa-11eb-9125-832ad74041c0.png)
+
+![24](https://user-images.githubusercontent.com/84587172/122331491-8c8b0900-cefa-11eb-8eb0-59c8f8945380.png)
+
+![25](https://user-images.githubusercontent.com/84587172/122331495-8dbc3600-cefa-11eb-9328-19a892825a22.png)
+
+![26](https://user-images.githubusercontent.com/84587172/122331504-901e9000-cefa-11eb-8dab-ee50bfeb3525.png)
+
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la ﬁ gura 6-66.
   
 <div align="center">  
 
