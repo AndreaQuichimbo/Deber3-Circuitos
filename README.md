@@ -368,6 +368,12 @@ C. Determine la potencia disipada por cada resistor.
 
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la ﬁgura 5-70.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/121794655-d0ff6780-cbcf-11eb-9cb3-6f6245119971.png)
+  
+</div>
+
 A. Determine la corriente en el circuito.
 
 <div align="center">
@@ -383,20 +389,19 @@ B. Use la re gla del di visor de volta je para encont rar el voltaje en cadafoco
 C. Calcule la potencia di si pada por cada foco.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/122329317-d540c300-cef6-11eb-82db-2df39042766c.png)
+
 </div>
 
-D. Si unsolo fo co lle gara ae star en circu ito abi erto,la seri e ente ra deja ría defuncionar . Para prevenir que ello ocurra ,cada foco tiene una pequeña cintade metal que pone en corto al foco cuando el ﬁlamento falla. Repita los pasos (a) a (c),si dos focos de la serie se quem aran.
+D. Si unsolo fo co lle gara ae star en circu ito abi erto,la seri e ente ra deja ría defuncionar . Para prevenir que ello ocurra ,cada foco tiene una pequeña cintade metal que pone en corto al foco cuando el ﬁlamento falla. Repita los pasos (a) a (c),si dos focos de la serie se quemaran.
 
-mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la espe-ranza de vida del re sto de los focos,si los dos que fallan no fueron reemplazados?
+E. Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la espe-ranza de vida del re sto de los focos,si los dos que fallan no fueron reemplazados?
 
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/121794655-d0ff6780-cbcf-11eb-9cb3-6f6245119971.png)
-  
-  </div>
+El tiempo de vida de estos disminuiría a causa de los focos faltantes 
 
-***5-8 Notación de subíndices devoltaje***
+**5-8 Notación de subíndices devoltaje**
+
 29. Resuelva par a hallar los voltajes V ab y V antes de Cristo en los circuitos de la ﬁ gura 5-68.
 
 <div align="center">
@@ -411,123 +416,8 @@ mi.Basa do en sus cál culos d el paso (d) ,¿Qué c ree que pa saría co n la e
 
 </div>
 
-5.9 Resistencia  interna de fuentes de voltaje
-
-33.- Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/1.png)
-
-5.10 Efectos de carga del amperímetro
-
-35.- Para los circuitos en serie de la ﬁgura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/2.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/3.png)
-
-5.11 Análisis de circuitos por computadora
-
-37.- Vea los circuitos de la ﬁgura 5-66. Utilice Multisim para encontrar lo siguiente:
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/4.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/5.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/6.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/7.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/8.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/9.png)
-
-39.- Vea el circuito de la figura 5-62.Use PSpice para encontrar lo siguiente: 
-
-![image](https://user-images.githubusercontent.com/84587172/122328473-59924680-cef5-11eb-8b65-3d47cb12d9f7.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/10.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/11.png)
 
 #  PROBLEMAS CAPÍTULO VI
-
-6.1 Circuitos en paralelo
-
-1.- Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles e serie.
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/12.png)
-
-3.-Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/13.png)
-
-6.2 Ley de corriente de Kirchhoff
-
-5.- Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indica en cada red que se muestra en la figura 6-48.
-
-![image](https://user-images.githubusercontent.com/84587172/122328636-a37b2c80-cef5-11eb-82ef-3933033304c8.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/14.png)
-
-7.-Considere la red de la figura 6-50
-
-![image](https://user-images.githubusercontent.com/84587172/122328709-b8f05680-cef5-11eb-9c35-9f9973b1f7f1.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/15.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/16.png)
-
-9.-Vea la red de la figura 6-52:
-
-![image](https://user-images.githubusercontent.com/84587172/122328773-d7565200-cef5-11eb-842b-400fe28c3003.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/17.png)
-
-6.3 Resistores en paralelo
-
-11.- Calcule la conductancia total y resistencia total de cada red que se muestra en la figura    6-54.
-
-![image](https://user-images.githubusercontent.com/84587172/122328848-f654e400-cef5-11eb-93ed-7f96b8edf51a.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/18.png)
-
-13.-Para las redes de la figura 6-56 determine el valor de la(s) resistencias(s) desconocidas para que resulte la resistencia total que se indica. 
-
-![image](https://user-images.githubusercontent.com/84587172/122328876-07055a00-cef6-11eb-9dc1-cb9d59523240.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/19.png)
-
-15.- Vea la red de la figura 6-58: 
-
-![image](https://user-images.githubusercontent.com/84587172/122328926-2308fb80-cef6-11eb-994a-0dc8bb491f57.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/20.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/21.png)
-
-17.- Vea la red de la figura 6-60: 
-
-![image](https://user-images.githubusercontent.com/84587172/122329034-4df34f80-cef6-11eb-8fbf-6590db7addce.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/22.png)
-
-19.- Determine la resistencia total de cada red de la figura 6-62.
-
-![image](https://user-images.githubusercontent.com/84587172/122329070-5fd4f280-cef6-11eb-8b9f-869f3e45bef8.png)
-
-![image](https://user-images.githubusercontent.com/84587172/122329082-65323d00-cef6-11eb-9a56-d151caf1bd51.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/23.png)
-
-21.- Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
-
-![image](https://user-images.githubusercontent.com/84587172/122329133-7a0ed080-cef6-11eb-857a-28d2269efafd.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/24.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/25.png)
-
-![](https://github.com/AndreaQuichimbo/Deber3-Circuitos/blob/main/26.png)
 
 23. Sin usar lápiz ,papel o calculadora determine la resistencia de cada red en laﬁ gura 6-66.
   
