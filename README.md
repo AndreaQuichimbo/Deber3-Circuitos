@@ -34,9 +34,9 @@ Ing. Darwin Omar Alulema Flores
 
 <div align="center">
   
-ANÁLISIS BÁSICO DE CD
-
 ![image](https://user-images.githubusercontent.com/84587172/122575687-9dc93800-d016-11eb-8a12-4b6040c657ac.png)  
+  
+![image](https://user-images.githubusercontent.com/84587172/122578136-3496f400-d019-11eb-9328-8a328d2bfa14.png)  
   
 </div>
  
