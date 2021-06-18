@@ -1079,6 +1079,8 @@ B. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 # 4. VIDEO
 
+https://www.youtube.com/watch?v=Hn36FIvLb1U
+
 # 5. CONCLUSIONES
 
 Despues de estudiar el capítulo 5 y 6 cada uno de nosotros somos capaces de encontrar la resistencia total de una red que consiste de resistores conectados en varias configuraciones serie-paralelo, determinar la corriente a través de cualquier rama o componente de un circuito serie-paralelo, la diferencia de potencial entre dos puntos cualquiera en un circuito serie-paralelo, calcular la caída de voltaje de un resistor conectado a un potenciómetro y utilizando Tinkercad  para conocer los voltajes y corrientes en los circuitos en serie-paralelo.
