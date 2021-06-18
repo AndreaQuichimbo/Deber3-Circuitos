@@ -710,13 +710,67 @@ b)
   
   </div>
 
+![image](https://user-images.githubusercontent.com/84587293/122497245-b7d12f00-cfb2-11eb-8702-f292ffff6855.png)
 
+![image](https://user-images.githubusercontent.com/84587293/122497299-c586b480-cfb2-11eb-9f62-ff6e37f7431d.png)
+
+Aplicamos la fórmula de  divisor de corriente
+
+![image](https://user-images.githubusercontent.com/84587293/122497352-d59e9400-cfb2-11eb-9a2c-9d4f9c0a3f9f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497379-ddf6cf00-cfb2-11eb-9249-e9d4c5df0236.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497399-e64f0a00-cfb2-11eb-88ed-5f6c3206895c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497415-ec44eb00-cfb2-11eb-9cd2-1bc19102af9f.png)
+
+Conociendo la corriente equivalente 2, la cual circula por las resistencia4 y la resistencia equivalente 1. Podemos volver aplicar la fórmula de división de corriente para determinar la corriente.
+
+![image](https://user-images.githubusercontent.com/84587293/122497464-fff05180-cfb2-11eb-891c-df00134b4993.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497483-07175f80-cfb3-11eb-85a9-af2d8975e3cb.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497512-11395e00-cfb3-11eb-948f-b325592a7f0c.png)
+
+Conociendo la corriente equivalente 1, la cual circula por la resistencia 2 y la resistencia 3. Podemos volver aplicar la fórmula de división de corriente para determinar la corriente.
+
+![image](https://user-images.githubusercontent.com/84587293/122497559-21e9d400-cfb3-11eb-92e9-e1d86d6b4d25.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497569-27471e80-cfb3-11eb-8385-dedc720f5a83.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497582-2f9f5980-cfb3-11eb-88ea-a9a5e2523f86.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122497590-35953a80-cfb3-11eb-920d-398dab09dfbf.png)
+
+b)
+
+La resistencia 1 y 2 están en paralelo, por lo tanto:
+
+![image](https://user-images.githubusercontent.com/84587293/122497710-74c38b80-cfb3-11eb-95c8-5fa0fcb4bf84.png)
+
+La resistencia equivalente 1 y 3 están en paralelo, por lo tanto:
+
+![image](https://user-images.githubusercontent.com/84587293/122497796-99b7fe80-cfb3-11eb-8ccc-edf70386737d.png)
+
+Aplicamos la ley de división de corriente para obtener el I_4 y I_eq2 para saber que corrientes circulan por R_3  y  R_eq1
+
+![image](https://user-images.githubusercontent.com/84587293/122498106-25ca2600-cfb4-11eb-88af-f24219800b13.png)
+
+Obtenido el I_5 podemos determinar que corrientes pasan por R_eq1   y  R_3, aplicando la ley de división de corriente.
+
+![image](https://user-images.githubusercontent.com/84587293/122498325-88232680-cfb4-11eb-9195-01040bfd0615.png)
+
+Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplicando la ley de división de corriente. 
+
+![image](https://user-images.githubusercontent.com/84587293/122498521-e3edaf80-cfb4-11eb-9932-7b65714c8b86.png)
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la ﬁgura 6-75.
 
 <div align="center">
      
 </div>
+
+![image](https://user-images.githubusercontent.com/84587293/122498740-447cec80-cfb5-11eb-8d11-cea2ff5f162b.png)
 
 35. Vea el circuito de la ﬁgura 6-77:
 
@@ -726,11 +780,19 @@ A. Determine la resistencia equivalente R T,del circuito.
      
 </div>
 
+a)	Las resistencias R1, R2 y R3 están en paralelo.
+
+![image](https://user-images.githubusercontent.com/84587293/122498895-860d9780-cfb5-11eb-8389-24fd48e0d894.png)
+
 B. Encuentre la corriente I.
 
 <div align="center">
      
 </div>
+
+![image](https://user-images.githubusercontent.com/84587293/122498911-902f9600-cfb5-11eb-8b6c-4a86499f374b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122498958-a89fb080-cfb5-11eb-8d1a-9dca9d4abfd7.png)
 
 C. Use la regla del divisor de corriente para determinar la corriente en cadaresistor.
 
@@ -738,11 +800,20 @@ C. Use la regla del divisor de corriente para determinar la corriente en cadares
      
 </div>
 
+Conociendo las corrientes que circula por la primera malla podemos obtener las corrientes I_1 y I_eq1, a través de la ley de división de corriente.
+
+![image](https://user-images.githubusercontent.com/84587293/122499339-5f039580-cfb6-11eb-84eb-b999797800df.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122499409-82c6db80-cfb6-11eb-9dde-05ba2f12846a.png)
+
 D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 <div align="center">
      
 </div>
+
+![image](https://user-images.githubusercontent.com/84587293/122499722-04b70480-cfb7-11eb-91e3-f6bc5c7b4d9e.png)
+
 
 **6-6 Análisis de circuitos en paralelo**
   
