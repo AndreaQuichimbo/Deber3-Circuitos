@@ -36,8 +36,8 @@ Ing. Darwin Omar Alulema Flores
   
 ANÁLISIS BÁSICO DE CD
 
-CIRCUITOS EN SERIE
-
+![image](https://user-images.githubusercontent.com/84587172/122575687-9dc93800-d016-11eb-8a12-4b6040c657ac.png)  
+  
 </div>
  
 **CAPITULO VI**
