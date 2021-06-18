@@ -346,25 +346,6 @@ F. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 </div>
 
-
-a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
-
-![image](https://user-images.githubusercontent.com/84587293/122492014-a6842480-cfaa-11eb-9a6e-5e5393d5394c.png)
-
-y la resistencia de 16,67kΏ está en paralelo con la resistencia de 50kΏ.
-
-![image](https://user-images.githubusercontent.com/84587293/122492645-c1a36400-cfab-11eb-967d-60e24467ce4a.png)
-
-b)  Ya que un cable esta conectado en paralelo a las resistencias, la resistencia equivalente tendría un valor de 0.
-
-c)	Las resistencias 1 y 2 de  600Ώ y 600Ώ  están en paralelo  y a la vez las resistencias 3 y 4 tienen el mismo valor y también están en paralelo por lo tanto.
-
-![image](https://user-images.githubusercontent.com/84587293/122492694-d849bb00-cfab-11eb-8b7d-70efd55f0b52.png)
-
-y tendríamos en total 4 resistencias de 300Ώ en paralelo.
-
-![image](https://user-images.githubusercontent.com/84587293/122492721-e566aa00-cfab-11eb-8a2a-c7c313d3a996.png)
-
 25. Vea los circuitos de la ﬁgura 5-68:
 
 A. Encuentre los valores de los resistores desconocidos.
@@ -639,6 +620,24 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 ![image](https://user-images.githubusercontent.com/84430867/121795919-9949ed00-cbda-11eb-958c-de035e633b35.png)
   
 </div>
+
+a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
+
+![image](https://user-images.githubusercontent.com/84587293/122492014-a6842480-cfaa-11eb-9a6e-5e5393d5394c.png)
+
+y la resistencia de 16,67kΏ está en paralelo con la resistencia de 50kΏ.
+
+![image](https://user-images.githubusercontent.com/84587293/122492645-c1a36400-cfab-11eb-967d-60e24467ce4a.png)
+
+b)  Ya que un cable esta conectado en paralelo a las resistencias, la resistencia equivalente tendría un valor de 0.
+
+c)	Las resistencias 1 y 2 de  600Ώ y 600Ώ  están en paralelo  y a la vez las resistencias 3 y 4 tienen el mismo valor y también están en paralelo por lo tanto.
+
+![image](https://user-images.githubusercontent.com/84587293/122492694-d849bb00-cfab-11eb-8b7d-70efd55f0b52.png)
+
+y tendríamos en total 4 resistencias de 300Ώ en paralelo.
+
+![image](https://user-images.githubusercontent.com/84587293/122492721-e566aa00-cfab-11eb-8a2a-c7c313d3a996.png)
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁgura 6-68.
 
