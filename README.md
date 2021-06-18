@@ -702,6 +702,24 @@ A. Encuentre la resistencia total RT y la corriente I a través de la fuente dev
   
 ![image](https://user-images.githubusercontent.com/84587293/122490172-fb25a080-cfa6-11eb-8580-7e7c27f76be2.png)
   
+![image](https://user-images.githubusercontent.com/84587293/122490190-05479f00-cfa7-11eb-885a-8b10704107aa.png)
+  
+</div>
+
+Las tres resistencias están en paralelo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122490523-d7af2580-cfa7-11eb-84e9-6b3fec3b232e.png)
+
+</div>
+
+Las tres resistencias Equivalente 1 y la resistencia 1 están en paralelo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122490577-f1506d00-cfa7-11eb-878b-e3d5fd137ad0.png)
+
 </div>
 
 B. Encuentre todas las corrientes desconocidas en el circuito.
@@ -709,8 +727,6 @@ B. Encuentre todas las corrientes desconocidas en el circuito.
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/122489259-d7615b00-cfa4-11eb-84b5-f634ca53d9d6.png)
-
-![image](https://user-images.githubusercontent.com/84587293/122490190-05479f00-cfa7-11eb-885a-8b10704107aa.png)
 
 </div>
 
