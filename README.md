@@ -631,8 +631,6 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
   
 </div>
 
-a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
-
 <div align="center"> 
   
 ![image](https://user-images.githubusercontent.com/84430867/121795912-8df6c180-cbda-11eb-8143-f121b793685c.png)
