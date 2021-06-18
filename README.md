@@ -623,27 +623,35 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
 
-![image](https://user-images.githubusercontent.com/84587293/122492014-a6842480-cfaa-11eb-9a6e-5e5393d5394c.png)
+![image](https://user-images.githubusercontent.com/84587293/122494483-109ec880-cfaf-11eb-8661-b10186a01758.png)
 
 y la resistencia de 16,67kΏ está en paralelo con la resistencia de 50kΏ.
 
-![image](https://user-images.githubusercontent.com/84587293/122492645-c1a36400-cfab-11eb-967d-60e24467ce4a.png)
+![image](https://user-images.githubusercontent.com/84587293/122494524-28764c80-cfaf-11eb-903e-467fbbf4eb40.png)
 
 b)  Ya que un cable esta conectado en paralelo a las resistencias, la resistencia equivalente tendría un valor de 0.
 
 c)	Las resistencias 1 y 2 de  600Ώ y 600Ώ  están en paralelo  y a la vez las resistencias 3 y 4 tienen el mismo valor y también están en paralelo por lo tanto.
 
-![image](https://user-images.githubusercontent.com/84587293/122492694-d849bb00-cfab-11eb-8b7d-70efd55f0b52.png)
+![image](https://user-images.githubusercontent.com/84587293/122494580-388e2c00-cfaf-11eb-8e8c-cb26d4501ef8.png)
 
 y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 
-![image](https://user-images.githubusercontent.com/84587293/122492721-e566aa00-cfab-11eb-8a2a-c7c313d3a996.png)
+![image](https://user-images.githubusercontent.com/84587293/122494870-48a60b80-cfaf-11eb-9170-5d0a022396cb.png)
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁgura 6-68.
 
 <div align="center">
      
 </div>
+
+Las resistencias de 100kΏ y de 30Ώ están en paralelo, por lo tanto:
+
+![image](https://user-images.githubusercontent.com/84587293/122495326-6d01e800-cfaf-11eb-80c5-2e4efd2f9752.png)
+
+y la resistencia de 30Ώ es paralela a la resistencia de 30Ώ.
+
+![image](https://user-images.githubusercontent.com/84587293/122495361-7f7c2180-cfaf-11eb-8374-4cde043f9f8d.png)
 
 **6-4 Fuentes de voltaje en paralelo**
   
@@ -654,6 +662,12 @@ y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 ![image](https://user-images.githubusercontent.com/84430867/121796009-5b00fd80-cbdb-11eb-8593-0905ad64a63f.png)
   
  </div>
+ 
+ La corriente I1 va hacer igual que la corriente I2 ya que al tener el mismo voltaje pasan la misma corriente.
+ 
+![image](https://user-images.githubusercontent.com/84587293/122495417-9de21d00-cfaf-11eb-80cb-67c0eb25fc68.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122495728-2e206200-cfb0-11eb-989a-f3591a47213b.png)
 
 **6-5 Regla del divisor de corriente**
   
@@ -665,7 +679,29 @@ y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 ![image](https://user-images.githubusercontent.com/84430867/121796046-a5827a00-cbdb-11eb-8361-f0965bc838f0.png)
   
   </div>
+  
+![image](https://user-images.githubusercontent.com/84587293/122495953-92432600-cfb0-11eb-92ed-fadfbdb25988.png)
 
+a) 
+
+![image](https://user-images.githubusercontent.com/84587293/122496023-b56dd580-cfb0-11eb-809e-1e14803cb2cd.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496039-bb63b680-cfb0-11eb-805f-93b4e0c8487a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496069-c4ed1e80-cfb0-11eb-9a03-d3b91d6ab76f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496106-d46c6780-cfb0-11eb-9c39-85917bd89e79.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84587293/122496142-e2ba8380-cfb0-11eb-8328-f934553b1079.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496157-ea7a2800-cfb0-11eb-9e68-38498819e4e8.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496179-f1a13600-cfb0-11eb-99a4-bd818ab832b4.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122496199-f8c84400-cfb0-11eb-8f16-450a60c2b87b.png)
+  
 31. Use la regla del divisor de corriente para determinar todas las corrientesdesconocidas en las redes de la ﬁgura 6-73.
  
 <div align="center">
@@ -673,6 +709,8 @@ y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 ![image](https://user-images.githubusercontent.com/84430867/121796073-f6926e00-cbdb-11eb-9810-08b08cdb8969.png)
   
   </div>
+
+
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la ﬁgura 6-75.
 
