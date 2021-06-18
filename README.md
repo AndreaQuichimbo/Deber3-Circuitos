@@ -28,6 +28,13 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+Reconocer qué elementos y ramas en un circuito dado están conectados en paralelo y cuáles en serie, calcular la resistencia y conductancia total de uja red de resistencias en paralelo.
+
+- Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas en un circuito, identificar y calcular los efectos de carga de un voltimetro conectado a un circuito.
+
+
+- Usar la regla del divisor de corriente ñara determinar la corriente a través de cualquier combinación de resistores en paralelo. 
+
 # 2. MARCO TEORICO
 
 **CAPITULO V**
