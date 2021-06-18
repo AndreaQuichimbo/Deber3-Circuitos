@@ -639,7 +639,7 @@ y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 
 ![image](https://user-images.githubusercontent.com/84587293/122494870-48a60b80-cfaf-11eb-9170-5d0a022396cb.png)
 
-25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁgura 6-68.
+25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada de la red de la figura 6-68.
 
 ![image](https://user-images.githubusercontent.com/84587293/122499935-6b3c2280-cfb7-11eb-815a-434d72de63cb.png)
 
