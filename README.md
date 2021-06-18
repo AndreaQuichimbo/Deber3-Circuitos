@@ -28,7 +28,7 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
-Reconocer qué elementos y ramas en un circuito dado están conectados en paralelo y cuáles en serie, calcular la resistencia y conductancia total de uja red de resistencias en paralelo.
+- Reconocer qué elementos y ramas en un circuito dado están conectados en paralelo y cuáles en serie, calcular la resistencia y conductancia total de uja red de resistencias en paralelo.
 
 - Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas en un circuito, identificar y calcular los efectos de carga de un voltimetro conectado a un circuito.
 
