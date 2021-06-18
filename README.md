@@ -692,6 +692,8 @@ D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 A. Encuentre la resistencia total RT y la corriente I a través de la fuente devoltaje.
 
+![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
+
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
@@ -701,7 +703,9 @@ A. Encuentre la resistencia total RT y la corriente I a través de la fuente dev
 B. Encuentre todas las corrientes desconocidas en el circuito.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122489259-d7615b00-cfa4-11eb-84b5-f634ca53d9d6.png)
+
 </div>
 
 C. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
