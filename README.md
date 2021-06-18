@@ -688,10 +688,14 @@ D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 **6-6 Análisis de circuitos en paralelo**
   
-37. Vea el circuito de la ﬁgura 6-79. una.Encuentre la resistencia total R T y la corriente I a través de la fuente devoltaje.
+37. Vea el circuito de la ﬁgura 6-79. 
+
+A. Encuentre la resistencia total RT y la corriente I a través de la fuente devoltaje.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
+  
 </div>
 
 B. Encuentre todas las corrientes desconocidas en el circuito.
@@ -710,33 +714,41 @@ D. Determine la potencia disipada por cada resistor. Veriﬁque que la potenciat
   
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
-  
-  </div>
+![image](https://user-images.githubusercontent.com/84587293/122487585-3c1ab680-cfa1-11eb-8aaf-292e3818b178.png)
+
+</div>
 
 39. Vea el circuito de la ﬁgura 6-81:
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84430867/121796239-4c1b4a80-cbdd-11eb-993a-1a70e8f0f4c0.png)
+  
 </div>
 
 A. Calcule la corriente a través de cada resistor en el circuito.
 
+La resistencia 3 y 4 están en paralelo. La resistencia equivalente 1 está en paralelo con l resitencia 2.
+
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122487063-f0b3d880-cf9f-11eb-8711-152251d1b196.png)
+
+![image](https://user-images.githubusercontent.com/84587293/122487350-b1d25280-cfa0-11eb-8673-4748564092fe.png)
+
 </div>
 
 B. Determine la corriente total suministrada por la fuente de voltaje.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122486908-9a469a00-cf9f-11eb-9282-23054ed18297.png)
+
 </div>
 
 C. Encuentre la potencia disipada por cada resistor.
   
 <div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/121796239-4c1b4a80-cbdd-11eb-993a-1a70e8f0f4c0.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122486770-56539500-cf9f-11eb-98c4-b1485f0f43d7.png)
 
