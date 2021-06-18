@@ -737,8 +737,10 @@ C. Encuentre la potencia disipada por cada resistor.
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/121796239-4c1b4a80-cbdd-11eb-993a-1a70e8f0f4c0.png)
-  
-  </div>
+
+![image](https://user-images.githubusercontent.com/84587293/122486770-56539500-cf9f-11eb-98c4-b1485f0f43d7.png)
+
+</div>
 
 41. En el circuito de la ﬁgura 6-83:
   
@@ -751,20 +753,24 @@ C. Encuentre la potencia disipada por cada resistor.
 A. Determine los valores de todos los resistores.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122485853-813ce980-cf9d-11eb-9273-7ec434c30566.png)
+
 </div>
 
-B. Calcule las corrientes a través de R 1, R 2 y R 4.
+B. Calcule las corrientes a través de R1, R2 y R4.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122486341-7df62d80-cf9e-11eb-8c03-25765c98caa0.png)
+
 </div>
 
 C. Encuentre las corrientes I1 e I2.
   
 <div align="center">  
 
-
+![image](https://user-images.githubusercontent.com/84587293/122486683-2d330480-cf9f-11eb-90ef-3bb6bf180676.png)
   
 </div>
 
