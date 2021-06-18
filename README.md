@@ -641,6 +641,8 @@ y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada ada de larojo de la ﬁgura 6-68.
 
+![image](https://user-images.githubusercontent.com/84587293/122499935-6b3c2280-cfb7-11eb-815a-434d72de63cb.png)
+
 <div align="center">
      
 </div>
@@ -766,6 +768,8 @@ Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplican
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la ﬁgura 6-75.
 
+![image](https://user-images.githubusercontent.com/84587293/122499999-8e66d200-cfb7-11eb-82f9-59cc16f7e6ed.png)
+
 <div align="center">
      
 </div>
@@ -773,6 +777,8 @@ Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplican
 ![image](https://user-images.githubusercontent.com/84587293/122498740-447cec80-cfb5-11eb-8d11-cea2ff5f162b.png)
 
 35. Vea el circuito de la ﬁgura 6-77:
+
+![image](https://user-images.githubusercontent.com/84587293/122500055-a4749280-cfb7-11eb-95bf-948d4fad5c8e.png)
 
 A. Determine la resistencia equivalente R T,del circuito.
 
