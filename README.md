@@ -346,6 +346,7 @@ F. Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 </div>
 
+
 a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
 
 ![image](https://user-images.githubusercontent.com/84587293/122492014-a6842480-cfaa-11eb-9a6e-5e5393d5394c.png)
