@@ -690,13 +690,17 @@ D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
   
 37. Vea el circuito de la ﬁgura 6-79. 
 
-A. Encuentre la resistencia total RT y la corriente I a través de la fuente devoltaje.
-
-![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
-
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
+  
+</div>
+
+A. Encuentre la resistencia total RT y la corriente I a través de la fuente devoltaje.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122490172-fb25a080-cfa6-11eb-8580-7e7c27f76be2.png)
   
 </div>
 
@@ -706,12 +710,16 @@ B. Encuentre todas las corrientes desconocidas en el circuito.
 
 ![image](https://user-images.githubusercontent.com/84587293/122489259-d7615b00-cfa4-11eb-84b5-f634ca53d9d6.png)
 
+![image](https://user-images.githubusercontent.com/84587293/122490190-05479f00-cfa7-11eb-885a-8b10704107aa.png)
+
 </div>
 
 C. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122489892-49866f80-cfa6-11eb-9d88-67f0b3eaad71.png)
+
 </div>
 
 D. Determine la potencia disipada por cada resistor. Veriﬁque que la potenciatotal disipada por los resistores es igual a la potencia suministrada por lafuente de voltaje.
