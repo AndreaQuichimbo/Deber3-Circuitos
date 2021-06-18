@@ -623,37 +623,61 @@ El tiempo de vida de estos disminuiría a causa de los focos faltantes.
 
 a)	Las resistencias de 25k y 50k están en paralelo por lo tanto.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/122494483-109ec880-cfaf-11eb-8661-b10186a01758.png)
 
+</div>
+
 y la resistencia de 16,67kΏ está en paralelo con la resistencia de 50kΏ.
+  
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/122494524-28764c80-cfaf-11eb-903e-467fbbf4eb40.png)
+
+</div>
 
 b)  Ya que un cable esta conectado en paralelo a las resistencias, la resistencia equivalente tendría un valor de 0.
 
 c)	Las resistencias 1 y 2 de  600Ώ y 600Ώ  están en paralelo  y a la vez las resistencias 3 y 4 tienen el mismo valor y también están en paralelo por lo tanto.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/122494580-388e2c00-cfaf-11eb-8e8c-cb26d4501ef8.png)
+
+</div>
 
 y tendríamos en total 4 resistencias de 300Ώ en paralelo.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122494870-48a60b80-cfaf-11eb-9170-5d0a022396cb.png)
+
+</div>
 
 25. Sin usar lápiz ,papel o calculadora determine la resistencia aproximada de la red de la figura 6-68.
 
-![image](https://user-images.githubusercontent.com/84587293/122499935-6b3c2280-cfb7-11eb-815a-434d72de63cb.png)
-
 <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122499935-6b3c2280-cfb7-11eb-815a-434d72de63cb.png)
      
 </div>
 
 Las resistencias de 100kΏ y de 30Ώ están en paralelo, por lo tanto:
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122495326-6d01e800-cfaf-11eb-80c5-2e4efd2f9752.png)
+
+</div>
 
 y la resistencia de 30Ώ es paralela a la resistencia de 30Ώ.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122495361-7f7c2180-cfaf-11eb-8374-4cde043f9f8d.png)
+
+</div>
 
 **6-4 Fuentes de voltaje en paralelo**
   
@@ -663,13 +687,18 @@ y la resistencia de 30Ώ es paralela a la resistencia de 30Ώ.
 
 ![image](https://user-images.githubusercontent.com/84430867/121796009-5b00fd80-cbdb-11eb-8593-0905ad64a63f.png)
   
- </div>
+</div>
  
  La corriente I1 va hacer igual que la corriente I2 ya que al tener el mismo voltaje pasan la misma corriente.
  
+
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122495417-9de21d00-cfaf-11eb-80cb-67c0eb25fc68.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122495728-2e206200-cfb0-11eb-989a-f3591a47213b.png)
+
+</div>
 
 **6-5 Regla del divisor de corriente**
   
@@ -679,13 +708,15 @@ y la resistencia de 30Ώ es paralela a la resistencia de 30Ώ.
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/121796046-a5827a00-cbdb-11eb-8361-f0965bc838f0.png)
-  
-  </div>
-  
-![image](https://user-images.githubusercontent.com/84587293/122495953-92432600-cfb0-11eb-92ed-fadfbdb25988.png)
 
+![image](https://user-images.githubusercontent.com/84587293/122495953-92432600-cfb0-11eb-92ed-fadfbdb25988.png)
+  
+</div>
+  
 a) 
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122496023-b56dd580-cfb0-11eb-809e-1e14803cb2cd.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122496039-bb63b680-cfb0-11eb-805f-93b4e0c8487a.png)
@@ -694,8 +725,12 @@ a)
 
 ![image](https://user-images.githubusercontent.com/84587293/122496106-d46c6780-cfb0-11eb-9c39-85917bd89e79.png)
 
+</div>
+ 
 b)
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122496142-e2ba8380-cfb0-11eb-8328-f934553b1079.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122496157-ea7a2800-cfb0-11eb-9e68-38498819e4e8.png)
@@ -704,20 +739,24 @@ b)
 
 ![image](https://user-images.githubusercontent.com/84587293/122496199-f8c84400-cfb0-11eb-8f16-450a60c2b87b.png)
   
+</div>
+
 31. Use la regla del divisor de corriente para determinar todas las corrientesdesconocidas en las redes de la ﬁgura 6-73.
  
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/121796073-f6926e00-cbdb-11eb-9810-08b08cdb8969.png)
-  
-  </div>
 
 ![image](https://user-images.githubusercontent.com/84587293/122497245-b7d12f00-cfb2-11eb-8702-f292ffff6855.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122497299-c586b480-cfb2-11eb-9f62-ff6e37f7431d.png)
 
+</div>
+
 Aplicamos la fórmula de  divisor de corriente
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122497352-d59e9400-cfb2-11eb-9a2c-9d4f9c0a3f9f.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122497379-ddf6cf00-cfb2-11eb-9249-e9d4c5df0236.png)
@@ -726,7 +765,11 @@ Aplicamos la fórmula de  divisor de corriente
 
 ![image](https://user-images.githubusercontent.com/84587293/122497415-ec44eb00-cfb2-11eb-9cd2-1bc19102af9f.png)
 
+</div>
+
 Conociendo la corriente equivalente 2, la cual circula por las resistencia4 y la resistencia equivalente 1. Podemos volver aplicar la fórmula de división de corriente para determinar la corriente.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/122497464-fff05180-cfb2-11eb-891c-df00134b4993.png)
 
@@ -734,8 +777,12 @@ Conociendo la corriente equivalente 2, la cual circula por las resistencia4 y la
 
 ![image](https://user-images.githubusercontent.com/84587293/122497512-11395e00-cfb3-11eb-948f-b325592a7f0c.png)
 
+</div>
+
 Conociendo la corriente equivalente 1, la cual circula por la resistencia 2 y la resistencia 3. Podemos volver aplicar la fórmula de división de corriente para determinar la corriente.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122497559-21e9d400-cfb3-11eb-92e9-e1d86d6b4d25.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122497569-27471e80-cfb3-11eb-8385-dedc720f5a83.png)
@@ -744,33 +791,55 @@ Conociendo la corriente equivalente 1, la cual circula por la resistencia 2 y la
 
 ![image](https://user-images.githubusercontent.com/84587293/122497590-35953a80-cfb3-11eb-920d-398dab09dfbf.png)
 
-b)
+</div>
 
-La resistencia 1 y 2 están en paralelo, por lo tanto:
+b) La resistencia 1 y 2 están en paralelo, por lo tanto:
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122497710-74c38b80-cfb3-11eb-95c8-5fa0fcb4bf84.png)
+
+</div>
 
 La resistencia equivalente 1 y 3 están en paralelo, por lo tanto:
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122497796-99b7fe80-cfb3-11eb-8ccc-edf70386737d.png)
+
+</div>
 
 Aplicamos la ley de división de corriente para obtener el I_4 y I_eq2 para saber que corrientes circulan por R_3  y  R_eq1
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122498106-25ca2600-cfb4-11eb-88af-f24219800b13.png)
 
+</div>
+  
 Obtenido el I_5 podemos determinar que corrientes pasan por R_eq1   y  R_3, aplicando la ley de división de corriente.
 
+</div>
+  
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122498325-88232680-cfb4-11eb-9195-01040bfd0615.png)
 
+</div>
+  
 Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplicando la ley de división de corriente. 
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122498521-e3edaf80-cfb4-11eb-9932-7b65714c8b86.png)
 
+</div>
+  
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la ﬁgura 6-75.
 
-![image](https://user-images.githubusercontent.com/84587293/122499999-8e66d200-cfb7-11eb-82f9-59cc16f7e6ed.png)
-
 <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122499999-8e66d200-cfb7-11eb-82f9-59cc16f7e6ed.png)
      
 </div>
 
@@ -778,48 +847,51 @@ Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplican
 
 35. Vea el circuito de la ﬁgura 6-77:
 
-![image](https://user-images.githubusercontent.com/84587293/122500055-a4749280-cfb7-11eb-95bf-948d4fad5c8e.png)
-
 A. Determine la resistencia equivalente R T,del circuito.
 
 <div align="center">
-     
+
+![image](https://user-images.githubusercontent.com/84587293/122500055-a4749280-cfb7-11eb-95bf-948d4fad5c8e.png)
+
 </div>
 
 a)	Las resistencias R1, R2 y R3 están en paralelo.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/122498895-860d9780-cfb5-11eb-8389-24fd48e0d894.png)
+  
+</div>
 
 B. Encuentre la corriente I.
 
 <div align="center">
-     
-</div>
 
 ![image](https://user-images.githubusercontent.com/84587293/122498911-902f9600-cfb5-11eb-8b6c-4a86499f374b.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122498958-a89fb080-cfb5-11eb-8d1a-9dca9d4abfd7.png)
+  
+</div>
 
 C. Use la regla del divisor de corriente para determinar la corriente en cadaresistor.
 
-<div align="center">
-     
-</div>
-
 Conociendo las corrientes que circula por la primera malla podemos obtener las corrientes I_1 y I_eq1, a través de la ley de división de corriente.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/122499339-5f039580-cfb6-11eb-84eb-b999797800df.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/122499409-82c6db80-cfb6-11eb-9dde-05ba2f12846a.png)
+  
+</div>
 
 D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
 
 <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/122499722-04b70480-cfb7-11eb-91e3-f6bc5c7b4d9e.png)
      
 </div>
-
-![image](https://user-images.githubusercontent.com/84587293/122499722-04b70480-cfb7-11eb-91e3-f6bc5c7b4d9e.png)
-
 
 **6-6 Análisis de circuitos en paralelo**
   
