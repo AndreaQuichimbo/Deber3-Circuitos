@@ -905,15 +905,11 @@ D. Veriﬁque la ley de corriente de Kirchhoff en el nodo a.
   
 37. Vea el circuito de la ﬁgura 6-79. 
 
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
-  
-</div>
-
 A. Encuentre la resistencia total RT y la corriente I a través de la fuente devoltaje.
 
 <div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/121796218-15453480-cbdd-11eb-8d9e-8376b6f5f959.png)
   
 ![image](https://user-images.githubusercontent.com/84587293/122490172-fb25a080-cfa6-11eb-8580-7e7c27f76be2.png)
   
