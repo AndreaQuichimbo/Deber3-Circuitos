@@ -841,9 +841,10 @@ Obtenido el  I_re1  podemos saber que corrientes pasan por R_1   y  R_2, aplican
   
 ![image](https://user-images.githubusercontent.com/84587293/122499999-8e66d200-cfb7-11eb-82f9-59cc16f7e6ed.png)
      
-</div>
 
 ![image](https://user-images.githubusercontent.com/84587293/122498740-447cec80-cfb5-11eb-8d11-cea2ff5f162b.png)
+
+</div>
 
 35. Vea el circuito de la ﬁgura 6-77:
 
